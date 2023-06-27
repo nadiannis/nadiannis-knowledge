@@ -1,7 +1,7 @@
 {
-  "name": "nextra-docs-template",
+  "name": "nadiannis-knowledge",
   "version": "0.0.1",
-  "description": "Nextra docs template",
+  "description": "Annisa Nadia's personal knowledge base",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -9,14 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shuding/nextra-docs-template.git"
+    "url": "https://github.com/nadiannis/nadiannis-knowledge.git"
   },
-  "author": "Shu Ding <g@shud.in>",
+  "author": {
+    "name": "Annisa Nadia Neyla",
+    "email": "annisanadianeyla@gmail.com"
+  },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shuding/nextra-docs-template/issues"
+    "url": "https://github.com/nadiannis/nadiannis-knowledge/issues"
   },
-  "homepage": "https://github.com/shuding/nextra-docs-template#readme",
+  "homepage": "https://github.com/nadiannis/nadiannis-knowledge#readme",
   "dependencies": {
     "next": "^13.0.6",
     "nextra": "latest",
