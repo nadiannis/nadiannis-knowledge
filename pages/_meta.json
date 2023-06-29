@@ -1,7 +1,8 @@
 {
   "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "programming-languages": "Programming Languages",
+  "data-structures-algorithms": "Data Structures & Algorithms",
+  "software-development": "Software Development",
   "about": {
     "title": "About",
     "type": "page"
