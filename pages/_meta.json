@@ -3,6 +3,8 @@
   "programming-languages": "Programming Languages",
   "data-structures-algorithms": "Data Structures & Algorithms",
   "software-development": "Software Development",
+  "software-testing": "Software Testing",
+  "version-control": "Version Control",
   "about": {
     "title": "About",
     "type": "page"
