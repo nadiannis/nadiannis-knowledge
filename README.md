@@ -8,8 +8,12 @@
   </p>
   <br>
     
-  [**View the Website**](#)
+  [**View the Website**](https://nadiannis-knowledge.vercel.app)
 </div>
+
+## Description
+
+This is a central hub where Nadia can store & organize her thoughts, findings, knowledge, and any other information relevant to her interests or personal development. It helps Nadia retain knowledge & retrieve information easily when needed. It can also be a reference for others who find it useful.
 
 ## Contributing
 
